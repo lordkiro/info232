@@ -43,7 +43,7 @@ export PATH="/opt/anaconda3/bin:$PATH"
 cd ~/projects/info232
 jupyter-notebook --ip=127.0.0.1 
 ```
-Then you should see a webpage pop up displaying the directory `~/projects/info232`. Then navigate to `~/projects/info232/TP0` and open the notebook `TP0.ipynb`. (You can also do this by directly running `jupyter-notebook --ip=127.0.0.1 ~/projects/info232/TP0/TP0.ipynb`)
+Then you should see a webpage pop up displaying the directory `~/projects/info232`. Then navigate to `~/Info232/info232/TP0` and open the notebook `TP0.ipynb`. (You can also do this by directly running `jupyter-notebook --ip=127.0.0.1 ~/Info232/info232/TP0/TP0.ipynb`)
 
 **Then answer the questions in this notebook. You don't have to answer all questions to have full score (5/5). Only 5 correct answers will do.**
 
